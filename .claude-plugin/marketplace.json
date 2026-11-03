@@ -1,0 +1,11 @@
+{
+    "name": "projectflow",
+    "owner": { "name": "Labestin Digital" },
+    "plugins": [
+        {
+            "name": "projectflow-time-tracking",
+            "source": "./",
+            "description": "Automatic prompt time tracking for Claude Code and Codex, linked to a ProjectFlow project or local-only with CSV export."
+        }
+    ]
+}

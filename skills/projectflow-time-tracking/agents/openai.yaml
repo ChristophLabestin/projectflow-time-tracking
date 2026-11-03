@@ -1,0 +1,4 @@
+interface:
+  display_name: "ProjectFlow-Zeiterfassung"
+  short_description: "Repository verbinden und Agentenzeit automatisch erfassen"
+  default_prompt: "Nutze $projectflow-time-tracking, um dieses Repository mit ProjectFlow zu verbinden und die automatische Zeiterfassung einzurichten."

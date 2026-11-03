@@ -1,0 +1,7 @@
+{
+    "name": "projectflow-time-tracking",
+    "version": "1.0.0",
+    "description": "Automatic prompt time tracking for Claude Code and Codex, linked to a ProjectFlow project or local-only with CSV export.",
+    "author": { "name": "Labestin Digital" },
+    "homepage": "https://getprojectflow.com"
+}
